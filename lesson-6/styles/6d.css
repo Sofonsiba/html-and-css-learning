@@ -1,0 +1,17 @@
+p {
+  font-family: "Montserrat";
+  margin-top: 0;
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+.header {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.apple-link {
+  font-size: 14px;
+  color: rgb(59, 95, 212);
+  cursor: pointer;
+}
