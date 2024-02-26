@@ -1,0 +1,13 @@
+p {
+  display: inline-block;
+  width: 260px;
+  text-align: justify;
+  vertical-align: middle;
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+button  {
+  vertical-align: middle;
+  cursor: pointer;
+}

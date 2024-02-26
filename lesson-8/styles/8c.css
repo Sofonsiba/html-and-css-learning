@@ -1,0 +1,15 @@
+img {
+  width: 200px;
+  display: block;
+  margin-bottom: 20px;
+  margin-left: 141px;
+}
+
+.search-input {
+  width: 460px;
+  padding: 14px 16px;
+  font-size: 16px;
+  border-radius: 22px;
+  border: none;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}

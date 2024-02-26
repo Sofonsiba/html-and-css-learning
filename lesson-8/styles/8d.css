@@ -1,0 +1,30 @@
+input {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+
+.name {
+  width: 124px;
+  display: inline;
+}
+
+.email {
+  width: 270px;
+  display: block;
+}
+
+button {
+  display: block;
+  width: 288px;
+  color: white;
+  background-color: #3874E9;
+  padding: 14px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
