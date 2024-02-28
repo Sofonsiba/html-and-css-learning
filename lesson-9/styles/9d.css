@@ -1,0 +1,27 @@
+* {
+  margin:0;
+  padding: 0;
+}
+
+div {
+  width: 400px;
+  background-color: #212121;
+  font-family: "Arial";
+  margin-top: 10px;
+  margin-left: 6px;
+  padding-top: 18px;
+  padding-left: 10px;
+  padding-bottom: 18px;
+}
+
+
+.first-par {
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 16px;
+}
+
+.second-par {
+  color: #aaa
+}

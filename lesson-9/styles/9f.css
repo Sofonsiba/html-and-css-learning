@@ -1,0 +1,36 @@
+body {
+  font-family: "Arial";
+}
+
+div {
+  display: inline-block;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+}
+
+img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.name {
+  font-weight: bold;
+  margin-left: 6px;
+}
+
+.friends-count {
+  font-size: 12px;
+  margin-left: 6px;
+}
+
+button {
+  margin-left: 6px;
+  margin-bottom: 6px;
+  border: none;
+  background-color: #3A72E0;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+}
