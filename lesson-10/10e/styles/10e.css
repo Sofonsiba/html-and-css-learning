@@ -1,0 +1,56 @@
+body {
+  font-family: "Arial";
+}
+
+.friend-container {
+  display: inline-block;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+  margin-right: 8px;
+  width: 160px
+}
+
+img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.video-stats {
+  display: inline-block;
+  width: 100%;
+  box-shadow: initial;
+  margin-bottom: 16px;
+  margin-left: 6px;
+}
+
+.dog-picture {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  vertical-align: middle;
+}
+
+.name {
+  font-weight: bold;
+  margin-left: 6px;
+  margin-bottom: 8px;
+}
+
+.friends-count {
+  font-size: 12px;
+  margin-left: 6px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+button {
+  margin-left: 6px;
+  margin-bottom: 6px;
+  border: none;
+  background-color: #3A72E0;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+}
