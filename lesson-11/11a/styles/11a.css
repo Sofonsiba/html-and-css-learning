@@ -1,0 +1,12 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 200px 75px;
+}
+
+.first {
+  background-color: #B5D6E3;
+}
+
+.second {
+  background-color: #F4B9C1;
+}

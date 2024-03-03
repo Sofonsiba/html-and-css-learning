@@ -1,0 +1,60 @@
+body {
+  font-family: "Arial";
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 160px 160px 160px;
+  column-gap: 10px;
+  align-items: center;
+}
+
+.friend-container {
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+}
+
+img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.counter-section {
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  align-items: center;
+}
+
+.video-stats {
+  width: 100%;
+  box-shadow: initial;
+  margin-bottom: 16px;
+  margin-left: 6px;
+}
+
+.dog-picture {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+}
+
+.name {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.friends-count {
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+button {
+  border: none;
+  background-color: #3A72E0;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 8px;
+}
