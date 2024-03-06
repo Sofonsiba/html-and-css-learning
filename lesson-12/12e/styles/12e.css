@@ -1,0 +1,29 @@
+body {
+  font-family: "Arial";
+  font-size: 18px;
+}
+
+.main-flex-container {
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+  border: solid 1px rgb(206, 206, 206);
+  border-radius: 8px;
+}
+
+.inner-flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.counter {
+  background-color: #416CEB;
+  color: white;
+  border-radius: 14px;
+  padding: 4px 12px;
+}

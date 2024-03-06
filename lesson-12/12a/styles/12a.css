@@ -1,0 +1,13 @@
+.flex-container {
+  display: flex;
+}
+
+.first {
+  width: 200px;
+  background-color: lightblue;
+}
+
+.second {
+  width: 76px;
+  background-color: lightpink;
+}

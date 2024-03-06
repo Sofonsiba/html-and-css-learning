@@ -1,0 +1,36 @@
+body {
+  font-family: "Arial";
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: #7153AB;
+}
+
+.right-section {
+  color: white;
+  margin-left: 18px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input {
+  width: 500px;
+  padding: 10px 16px;
+  border-radius: 18px;
+  border: none;
+  font-size: 16px;
+}
+
+button {
+  color: white;
+  background-color: #7153AB;
+  border: solid 1px;
+  border-radius: 2px;
+  padding: 10px 16px;
+  margin-right: 10px;
+  cursor: pointer;
+}
