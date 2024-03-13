@@ -1,0 +1,22 @@
+.flex-container {
+  display: flex;
+  height: 60px;
+}
+
+.first-element {
+  display: flex;
+  width: 100px;
+  background-color: lightpink;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+p {
+  background-color: black;
+}
+
+.second-element {
+  width: 200px;
+  background-color: lightblue;
+}

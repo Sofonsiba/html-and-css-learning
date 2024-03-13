@@ -1,0 +1,28 @@
+.flex-container {
+  display: flex;
+  height: 60px;
+}
+
+.first-element {
+  width: 100px;
+  background-color: lightpink;
+}
+
+.second-element {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  background-color: lightblue;
+  font-size: 18px;
+}
+
+.inner-flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inner-flex-container > div {
+  background-color: black;
+  color: white;
+}
+
