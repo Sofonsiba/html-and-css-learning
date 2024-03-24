@@ -1,0 +1,43 @@
+body {
+  height: 3000px;
+  margin: 0;
+  font-family: "Arial";
+}
+
+.container-product {
+  position: relative;
+  display: inline-block;
+}
+
+img {
+  width: 500px;
+}
+
+.on-sale-percent {
+  position: absolute;
+  right: 0;
+  top: 16px;
+  background-color: black;
+  color: white;
+  padding: 8px 12px;
+}
+
+.bottom-container {
+  position: absolute;
+  display: flex;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 140px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+ button {
+  padding: 10px;
+  font-size: 18px;
+  border: 2px solid;
+  background-color: rgba(255, 255, 255, 1);
+  cursor: pointer;
+}

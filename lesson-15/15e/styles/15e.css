@@ -1,0 +1,23 @@
+body {
+  height: 3000px;
+  margin: 0;
+  font-family: "Arial";
+}
+
+.container-product {
+  position: relative;
+  display: inline-block;
+}
+
+img {
+  width: 500px;
+}
+
+.on-sale-percent {
+  position: absolute;
+  right: 0;
+  top: 16px;
+  background-color: black;
+  color: white;
+  padding: 8px 12px;
+}
